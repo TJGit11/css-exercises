@@ -1,0 +1,15 @@
+/*Added a new class unnecessarily (class = "text styled") 
+    could have achieved the same result without. This was in the README */
+/* .container .styled{
+    background-color: yellow;
+    color: red;
+    font-size: 28px;
+    text-align: center;
+} */
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 28px;
+    text-align: center;
+}
